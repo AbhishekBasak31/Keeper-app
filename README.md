@@ -23,5 +23,3 @@ After saving the note successfully
 - **Node.js** 
 - **Express**
 
-### Database
-- **PostregSQL**
